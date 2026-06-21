@@ -9,7 +9,7 @@
 
 I'm a 3rd-year Data & AI Engineering student passionate about building end-to-end data pipelines and intelligent systems. I enjoy turning raw, unstructured data into actionable insights and automated solutions.
 
-- 🎓 Engineering degree in Data & AI — CNAM Paris
+- 🎓 Engineering degree in Data & AI — CNAM Niort
 - 🌍 Looking for an international internship (UK, Netherlands, Germany, Canada)
 - 🔭 Currently working on: document classification with OCR + ML
 - 💬 Ask me about: Python, Machine Learning, SQL, NLP
