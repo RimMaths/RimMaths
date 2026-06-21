@@ -1,6 +1,6 @@
 # Hi, I'm Rim El Guennouni 👋
 
-**Data & AI Engineering Student | CNAM Paris**  
+**Data & AI Engineering Student | CNAM Niort**  
 *Seeking an international internship in Data Science / ML / Data Engineering*
 
 ---
